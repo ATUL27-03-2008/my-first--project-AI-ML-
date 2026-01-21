@@ -83,6 +83,6 @@ College Project – Fake News Detector
 ---
 
 ## 📎 GitHub Repository
-(Add your GitHub link here)
+(https://github.com/ATUL27-03-2008/my-first--project-AI-ML-.git)
 
 
